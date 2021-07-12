@@ -1,0 +1,44 @@
+.banner {
+  background: url("http://lane7.s3.amazonaws.com/products/images/7052/Modern_Bedroom_Design_with_Backdrop_-Abuja_Lagos_Porthrcourt_Nigeria_lane7.original.jpeg?1547125997")
+    center center;
+  position: relative;
+  height: 60vh;
+  object-fit: contain;
+}
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+}
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner__info {
+  background-color: black;
+  color: white;
+  padding-top: 30vh;
+  padding-bottom: 28px;
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 300px;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 700;
+}
+.banner__info > button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+
+.banner__info > h5 {
+  margin-top: 10px;
+}
