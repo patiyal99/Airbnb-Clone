@@ -9,17 +9,17 @@ function Home() {
       <Banner />
       <div className="home__section">
         <Card
-          src="https://i.insider.com/5be173cc9e8c532ef800c4e6?width=640&format=jpeg"
+          src="https://images.unsplash.com/photo-1521401830884-6c03c1c87ebb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80"
           title="Online Experience"
           description="Unique activity we can do together,led by a world of hosts"
         />
         <Card
-          src="https://news.airbnb.com/wp-content/uploads/sites/4/2018/08/10-airship-002-min.jpg?fit=720%2C1669"
+          src="https://images.unsplash.com/photo-1582880421648-a7154a8c99c1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1502&q=80"
           title="Unique Stays"
           description="Spaces that are more than just a place to sleep"
         />
         <Card
-          src="https://a0.muscache.com/im/pictures/5f95694e-5531-4a70-bdc3-b646d436c26c.jpg?im_w=720"
+          src="https://images.unsplash.com/photo-1598904326301-4c9cb279a3f6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80"
           title="Entire homes"
           description="Comfortable private places, with room for friends or family"
         />
